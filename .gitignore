@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Datasets
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# Logs
+logs/
+runs/
+wandb/
+
+# Temporary files
+tmp/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
